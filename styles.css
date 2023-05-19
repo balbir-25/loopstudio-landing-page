@@ -400,14 +400,17 @@
     .ham{
       display: block;
       float: right;
+      margin-top: 15px;
     }
 
     #open{
       display: block;
+      width: 40px;
     }
 
     #close{
       display: none;
+      width: 40px;
     }
 
     .title{
